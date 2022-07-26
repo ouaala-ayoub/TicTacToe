@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="welcome">Tic Tac Toe</string>
+    <string name="start_a_game">Start a game</string>
+    <string name="options">Options</string>
+    <string name="quit_game">Quit Game</string>
+    <string name="p_vs_p">P vs P</string>
+    <string name="p_vs_ai">P vs AI</string>
+    <string name="options_title">Options menu</string>
+    <string name="cage">cage</string>
+    <string name="winner_is">winner is %1$s</string>
+    <string name="restart">RESTART</string>
+    <string name="go_to_main_menu">Go to main menu</string>
+    <string name="moves">Moves : %1$s</string>
+    <string name="mehdi">mehdi %1$s</string>
+</resources>
